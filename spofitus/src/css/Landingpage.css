@@ -1,0 +1,40 @@
+/* .LandingPage{
+    
+} */
+
+.LandingPage .home_button{
+    background-color: #d9d9d9;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LandingPage .search-landing{
+    background-color: #333333;
+}
+
+.LandingPage .search_input::placeholder{
+    color:#ffffff
+}
+
+.LandingPage .login_button{
+    background-color: #d9d9d9;
+    border-radius: 100px;
+    color:dark;
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+    width: 60%;
+}
+
+.LandingPage .signup_button{
+    background-color:#1b1b1b;
+    
+    border-radius: 100px;
+    color:#949494;
+    font-size: 1.5rem;
+    padding-top: 0.5rem;
+    width: 60%;
+}
